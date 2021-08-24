@@ -1,0 +1,29 @@
+com/asmaamir/mlkitdemo/BuildConfig.java
+ com.asmaamir.mlkitdemo.BuildConfig
+com/asmaamir/mlkitdemo/RealTimeObjectDetection/MLKitObjectsAnalyzer.java
+ com.asmaamir.mlkitdemo.RealTimeObjectDetection.MLKitObjectsAnalyzer
+com/asmaamir/mlkitdemo/CaptureFaceDetection/GalleryFaceDetectionActivity.java
+ com.asmaamir.mlkitdemo.CaptureFaceDetection.GalleryFaceDetectionActivity
+com/asmaamir/mlkitdemo/RealTimeFaceDetection/RealTimeFaceDetectionActivity.java
+ com.asmaamir.mlkitdemo.RealTimeFaceDetection.RealTimeFaceDetectionActivity
+com/asmaamir/mlkitdemo/RealTimeObjectDetection/RealTimeObjectDetectionActivity.java
+ com.asmaamir.mlkitdemo.RealTimeObjectDetection.RealTimeObjectDetectionActivity
+com/asmaamir/mlkitdemo/RealTimeFaceDetection/MLKitFacesAnalyzer.java
+ com.asmaamir.mlkitdemo.RealTimeFaceDetection.MLKitFacesAnalyzer
+com/asmaamir/mlkitdemo/CustomModelDetection/CustomModelDetectionActivity.java
+ com.asmaamir.mlkitdemo.CustomModelDetection.CustomModelDetectionActivity
+com/asmaamir/mlkitdemo/CustomModelDetection/MLKitDetectionAnalyzer.java
+ com.asmaamir.mlkitdemo.CustomModelDetection.MLKitDetectionAnalyzer
+ com.asmaamir.mlkitdemo.CustomModelDetection.MLKitDetectionAnalyzer$1
+ com.asmaamir.mlkitdemo.CustomModelDetection.MLKitDetectionAnalyzer$2
+com/asmaamir/mlkitdemo/CameraX/CameraxActivity.java
+ com.asmaamir.mlkitdemo.CameraX.CameraxActivity
+ com.asmaamir.mlkitdemo.CameraX.CameraxActivity$1
+com/asmaamir/mlkitdemo/CameraX/DemoAnalyzer.java
+ com.asmaamir.mlkitdemo.CameraX.DemoAnalyzer
+com/asmaamir/mlkitdemo/MainActivity.java
+ com.asmaamir.mlkitdemo.MainActivity
+com/asmaamir/mlkitdemo/FaceTracking/FaceTrackingAnalyzer.java
+ com.asmaamir.mlkitdemo.FaceTracking.FaceTrackingAnalyzer
+com/asmaamir/mlkitdemo/FaceTracking/FaceTrackingActivity.java
+ com.asmaamir.mlkitdemo.FaceTracking.FaceTrackingActivity
